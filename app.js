@@ -1,0 +1,1 @@
+// Este é o arquivo principal da sua aplicação Node.js. Aqui você configura o servidor, define as rotas, conecta-se ao banco de dados, etc.
