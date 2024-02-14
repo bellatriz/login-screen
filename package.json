@@ -1,0 +1,17 @@
+{
+  "name": "login-screen",
+  "version": "1.0.0",
+  "description": "Uma tela de login",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "login",
+    "web"
+  ],
+  "author": "https://github.com/bemenezes",
+  "license": "ISC"
+}
